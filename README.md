@@ -1,3 +1,3 @@
-# Katherine McDonough's Website
+# Katherine McDonough's Personal Website
 
-I update this site regularly, but more detail is available at https://www.lancaster.ac.uk/history/about/people/katherine-mcdonough.
+See also https://www.cmu.edu/dietrich/history/people/faculty/mcdonough.html 

@@ -16,7 +16,7 @@ Find my email and a longer, more formal description of my research and teaching 
 
 ### Current Projects
 
-***MapReader*** - open-source software for analyzing digitized map collections
+***MapReader*** - open-source software for analyzing digitized map collections. [[repo](https://github.com/maps-as-data/MapReader)] [[docs](https://mapreader.readthedocs.io/en/latest/)] [[paper](https://dl.acm.org/doi/10.1145/3557919.3565812)]
 
 ***Computational Map Studies*** - a long-term project exploring computational approaches to understanding both the history of maps and their contents at scale
 

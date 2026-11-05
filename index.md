@@ -8,9 +8,9 @@ I am an Assistant Professor of History and Computational Humanities at Carnegie 
 
 I am interested in histories of infrastructure and information, especially when these showcase how experiences in built and natural environments catalyze social and political change. My training began as a historian of eighteenth-century France, but since finishing my PhD I have worked across other fields, from book history to British history. 
 
-For the last several years, I have been developing methods and tools for analyzing large collections of digitized maps. The MapReader software library was an early effort develop a humanities-oriented computer vision tool for map analysis. I am proud that it's still going, and that our patch classification and text spotting pipelines are being used around the world. Learn more at https://github.com/maps-as-data/MapReader 
+For the last several years, I have been developing methods and tools for analyzing large collections of digitized maps. The MapReader software library was an early effort develop a humanities-oriented computer vision tool for map analysis. I am proud that it's still going, and that our patch classification and text spotting pipelines are being used around the world. Learn more [here](https://github.com/maps-as-data/MapReader).
 
-Find my email and a longer, more formal description of my research and teaching at https://www.cmu.edu/dietrich/history/people/faculty/mcdonough.html 
+Find my email and a longer, more formal description of my research and teaching on my [CMU profile page](https://www.cmu.edu/dietrich/history/people/faculty/mcdonough.html). 
 
 
 

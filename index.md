@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="profile_pic.jpg">
 
-I am an Assistant Professor of History and Computational Humanities at Carnegie Mellon University in Pittsburgh, PA. I used to work at lots of other places: Lancaster University, The Alan Turing Institute, Stanford University, Western Sydney University, and Bates College.
+I am an Assistant Professor of History and Computational Humanities at Carnegie Mellon University in Pittsburgh, PA. Previously, I have worked at Lancaster University, The Alan Turing Institute, Stanford University, Western Sydney University, and Bates College. 
 
 I am interested in histories of infrastructure and information, especially when these showcase how experiences in built and natural environments catalyze social and political change. My training began as a historian of eighteenth-century France, but since finishing my PhD I have worked across other fields, from book history to British history. 
 
@@ -18,10 +18,9 @@ Find my email and a longer, more formal description of my research and teaching 
 
 ***MapReader*** - open-source software for analyzing digitized map collections. [[repo](https://github.com/maps-as-data/MapReader)] [[docs](https://mapreader.readthedocs.io/en/latest/)] [[paper](https://dl.acm.org/doi/10.1145/3557919.3565812)]
 
-***Computational Map Studies*** - a long-term project exploring computational approaches to understanding both the history of maps and their contents at scale
+***Computational Map Studies*** - a long-term project exploring computational approaches to understanding both the history of maps and their contents at scale. See the _Imago Mundi_ [Forum](https://www.tandfonline.com/doi/full/10.1080/03085694.2025.2453329) I co-edited with Valeria Vitale for an introduction to this work.
 
-***Public Work: Making Roads and Citizens in Eighteenth-Century France*** - the book manuscript based on my dissertation
-
+***Public Work: Making Roads and Citizens in Eighteenth-Century France*** - the book manuscript based on my dissertation. This history of the forced labor practice of the _corvée_ sits at the intersection of studies of the origins of the French Revolution, the history of highways as a "modernizing" infrastructure, and everyday rural life. Working with a variety of sources that captured information in ways that were relatively new in the eighteenth century, this book brings a political and cultural perspective to bear on a part of French peasant life which is typically only described in economic terms.
 
 
 ### Past Projects

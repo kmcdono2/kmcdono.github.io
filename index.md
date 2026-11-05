@@ -26,17 +26,17 @@ Find my email and a longer, more formal description of my research and teaching 
 
 ### Past Projects
 
-[Data/Culture: Building sustainable communities around Arts and Humanities datasets and tools](https://www.turing.ac.uk/research/research-projects/dataculture-building-sustainable-communities-around-arts-and-humanities)
+[***Data/Culture: Building sustainable communities around Arts and Humanities datasets and tools***](https://www.turing.ac.uk/research/research-projects/dataculture-building-sustainable-communities-around-arts-and-humanities)
 
-[Machines Reading Maps](https://www.turing.ac.uk/research/research-projects/machines-reading-maps)
+[***Machines Reading Maps***](https://www.turing.ac.uk/research/research-projects/machines-reading-maps)
 
-[Living with Machines](https://www.turing.ac.uk/research/research-projects/living-machines)
+[***Living with Machines***](https://www.turing.ac.uk/research/research-projects/living-machines)
 
-[GEODE](https://geode-project.github.io/)
+[***GEODE***](https://geode-project.github.io/)
 
-[Early Modern Mobility](https://emmobility.github.io/emm_site/)
+[***Early Modern Mobility***](https://emmobility.github.io/emm_site/)
 
-[Mapping Print, Charting Enlightenment](http://fbtee.uws.edu.au/mpce/the-project/)
+[***Mapping Print, Charting Enlightenment***](http://fbtee.uws.edu.au/mpce/the-project/)
 
 
 
@@ -52,7 +52,7 @@ K. McDonough and V. Vitale, “[Introduction: Maps and Machines: Recent Perspect
 
 K. McDonough, K. Beelen, D. Wilson, R. Wood, “[Reading Maps at a Distance: Texts on Maps as New Historical Data](https://www.tandfonline.com/doi/full/10.1080/03085694.2024.2453336),” _Imago Mundi_ 76, no. 2 (2024): 296-307.
 
-K. McDonough, “Maps as Data,” in [*Debates in DH: Computational Humanities*](https://dhdebates.gc.cuny.edu/projects/computational-humanities-preprint), ed. by J. M. Johnson, D. Mimno, & L. Tilton (University of Minnesota Press, 2024). 
+K. McDonough, “[Maps as Data](https://dhdebates.gc.cuny.edu/read/computational-humanities-5c64bbab-d7ca-41be-8f87-f26117a9a20f/section/992f5fc5-9a0d-4e9a-863a-adc1de9a678e),” in *Debates in DH: Computational Humanities*, ed. by J. M. Johnson, D. Mimno, & L. Tilton (University of Minnesota Press, 2024). 
 
 
 

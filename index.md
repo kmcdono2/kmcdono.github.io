@@ -14,7 +14,7 @@ Find my email and a longer, more formal description of my research and teaching 
 
 
 
-## Current Projects
+### Current Projects
 
 ***MapReader*** - open-source software for analyzing digitized map collections
 
@@ -24,7 +24,7 @@ Find my email and a longer, more formal description of my research and teaching 
 
 
 
-## Past Projects
+### Past Projects
 
 [Data/Culture: Building sustainable communities around Arts and Humanities datasets and tools](https://www.turing.ac.uk/research/research-projects/dataculture-building-sustainable-communities-around-arts-and-humanities)
 
@@ -40,7 +40,7 @@ Find my email and a longer, more formal description of my research and teaching 
 
 
 
-## Recent and Forthcoming Publications
+### Recent and Forthcoming Publications
 
 R. Ahnert, E. Griffin, J. Lawrence, & the Living with Machines Team, [_Living with Machines: Computational Histories of the Age of Industry_](https://uolpress.co.uk/book/living-with-machines/) (University of London Press, 2027).
 
